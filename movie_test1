@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+    <Movie>
+        <Title>Spy</Title>
+        <Genre>Action</Genre>
+        <Year>2010</Year>
+    </Movie>
+    <Movie>
+        <Title>The Shawshank Redemption</Title>
+        <Genre>Drama</Genre>
+        <Year>1994</Year>
+    </Movie>
+    <Movie>
+        <Title>Inception</Title>
+        <Genre>Science Fiction</Genre>
+        <Year>2010</Year>
+    </Movie>
+    <Movie>
+        <Title>Parasite</Title>
+        <Genre>Thriller</Genre>
+        <Year>2019</Year>
+    </Movie>
+    <Movie>
+        <Title>Spirited Away</Title>
+        <Genre>Animation</Genre>
+        <Year>2001</Year>
+    </Movie>
+</Movies>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BoxOffice>
+    <Entry>
+        <Title>The Godfather</Title>
+        <Revenue>135000000</Revenue>
+        <OpeningWeekend>35000099</OpeningWeekend>
+        <Country>USA</Country>
+    </Entry>
+</BoxOffice>

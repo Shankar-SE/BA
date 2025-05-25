@@ -6,4 +6,10 @@
         <OpeningWeekend>35000099</OpeningWeekend>
         <Country>USA</Country>
     </Entry>
+    <Entry>
+        <Title>The Godfather2</Title>
+        <Revenue>235000000</Revenue>
+        <OpeningWeekend>45000099</OpeningWeekend>
+        <Country>USA</Country>
+    </Entry>
 </BoxOffice>

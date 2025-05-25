@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reviews>
+    <Review>
+        <MovieTitle>The Godfather</MovieTitle>
+        <Critic>
+            <Name>Roger Ebert</Name>
+            <Score>9.5</Score>
+            <Sentiment>Positiveee</Sentiment>
+        </Critic>
+    </Review>
+    <Review>
+        <MovieTitle>The Godfather2</MovieTitle>
+        <Critic>
+            <Name>Roger Ebert</Name>
+            <Score>9.5</Score>
+            <Sentiment>Positiveee</Sentiment>
+        </Critic>
+    </Review>
+</Reviews>
